@@ -1,0 +1,86 @@
+{ "people" :[
+{
+"name" : "Maya Angelou",
+"src": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F211950726187687721%2F&psig=AOvVaw1z1D1B7T2cev3ZH8D6xPFn&ust=1597803643375000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjekcbYo-sCFQAAAAAdAAAAABAD",
+"lifespan" : "1928 - 2014",
+"about": " As a Writer  She is perhaps most famous for her best-selling, award-winning autobiographical book, I Know Why the Caged Bird Sings, about her upbringing in the South. The book was one of the first ever written by a black woman to garner widespread readership, according to The New York Times. As an Activist Angelou was active in the Civil Rights movement and served as the northern coordinator for the Southern Christian Leadership Conference in 1959. Later, she became close with and worked with Malcolm X.",
+"quote" : “I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.”
+
+},
+{
+"name" : "Ada Lovelace",
+"src" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR5Nde8_aV8z5D1EgWoaVu1fcIAQr2kujtZiw&usqp=CAU",
+"lifespan" : "1815- 1852",
+"about": "A gifted mathematician, Ada Lovelace is considered to be the first computer programmer, an industry that has since transformed business, our lives and the world. In an industry still dominated by men, it’s particularly striking that the first programmer was a woman.",
+"quote" : “The more I study, the more insatiable do I feel my genius for it to be. Your best and wisest refuge from all troubles is in your science.” 
+},
+{
+"name" : "Frida Kahlo",
+"src" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg/440px-Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg",
+"lifespan" : "1907- 1954",
+"about": "A Mexican artist whose striking, distinctive works combine an exploration of gender, class and identity with symbols from the nation’s cultural history, Kahlo has gone on to become an important figure for social causes including feminism and LGBTQ rights.",
+"quote" : "Feet, what do I need you for when I have wings to fly?"
+},
+{
+"name" : "Sacagawea",
+"src" : "https://myhero.com/images/guest/g283663/hero105900/sacagawea%20young.jpg",
+"lifespan" : "1788-1812 ",
+"about" : "As a female Native American, Sacagawea’s story could easily have been lost to history. But her role as a vital member of Lewis and Clark’s Corps of Discovery, helping them forge relationships with Native Americans all while carrying her newborn baby on her back, ensured this wasn’t the case. Sacagawea travelled thousands of miles with the Lewis and Clark expedition of 1804-6 – from the Mandan-Hidatsa villages in the Dakotas to the Pacific Northwest – acting as an interpreter and allaying the suspicions of the tribes they encountered.",
+"quote" : "Everything I do is for my people. "
+},
+{
+"name" : "Marsha P. Johnson",
+"src" : "https://www.biography.com/.image/t_share/MTUyMDk1MDAyNDMwODc1MTE4/marsha-p-johnson-1-1.jpg",
+"lifespan" : "1945-1992 ",
+"about": "Marsha P. Johnson, along with Sylvia Rivera and other transgender and gender non-conforming people of color, has been credited with starting the infamous Stonewall Uprising of 1969. When police raided the Stonewall Inn, a gay bar in New York City, in June of that year — as they had many times before — Johnson and others who were there that night decided they'd had enough and fought back. The ensuing protest lasted six days and is considered the start of the modern LGBTQ+ rights movement. The first Pride parade was held in June of the following year to commemorate the uprising.",
+"quote" : "History isn't something you look back at and say it was inevitable, it happens because people make decisions that are sometimes very impulsive and of the moment, but those moments are cumulative realities. "
+},
+{
+"name" : "Christine Jorgensen",
+"src" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTl_FPMDmVQyNAmUaA5nFuVmhWBJxVtND4CAg&usqp=CAU",
+"lifespan" : "1926-1989 ",
+"about": "In 1952, Christine Jorgensen became the first person to publicly transition from male to female in the United States. She was born and raised in the Bronx and served as an Army clerk pre-transition, according to her New York Times obituary.",
+"quote" : "I decided if they wanted to see me, they would have to pay for it. "
+},
+{
+"name" : "Clara Barton",
+"src" : "https://cdn.britannica.com/s:290x800/84/18984-004-917C91FB/Clara-Barton-photograph-Mathew-B-Brady-1866.jpg",
+"lifespan" : "1821-1912  ",
+"about": "A nurse during the American Civil War (1861-65) Clara distributed medical supplies, worked near the front lines and treated both Union and Confederate men. Her work earned her the nickname ‘Angel of the Battlefield’. After the war she ran the Office of Missing Soldiers, helping thousands of families locate missing relatives and rebury the dead in marked graves. In 1881 Clara established the American Red Cross, serving as its president until 1904.",
+"quote" : "The surest test of discipline is its absence. "
+},
+{
+"name" : "Marie Van Brittan Brown",
+"src" : "https://miro.medium.com/max/441/1*MrDKjbNlFi9WwiVdpG0uPQ.jpeg",
+"lifespan" : "1922-1999  ",
+"about": "The Big Brother technology of Closed Circuit Television is now a ubiquitous public presence, but African-American nurse Marie van Brittan Brown invented it to protect her friends and family at home. Disillusioned by police negligence, in 1966 she filed a patent for a movable camera that could display images on a TV screen monitor of whoever was at the front door.",
+"quote" : "a woman alone could set off an alarm immediately by pressing a button, or if the system were installed in a doctor’s office, it might prevent holdups by criminals. "
+},
+{
+"name" : "Junko Tabei",
+"src" : "https://www.google.com/imgres?imgurl=https%3A%2F%2F2.bp.blogspot.com%2F-9sJPpUYkEzE%2FWHAdTU4UuYI%2FAAAAAAAAMZk%2Fgzf-ac3IKd0lkuJPWoTsK_lg3cl9a12hQCLcB%2Fs1600%2Flater%252Bclimbing.jpg&imgrefurl=http%3A%2F%2Fsurfwritergirls.blogspot.com%2F2017%2F01%2Fjunko-tabei-scaled-heights.html&tbnid=qZnRdxYxFxZ4yM&vet=12ahUKEwjmw8afmaXrAhXzJH0KHRwiDdIQMygeegUIARD9AQ..i&docid=Z1rEm2LnQAmALM&w=284&h=420&q=junko%20tabei&ved=2ahUKEwjmw8afmaXrAhXzJH0KHRwiDdIQMygeegUIARD9AQ",
+"lifespan" : "1939-2016",
+"about": "In 1975, Tabei became the first woman to reach the summit of Mount Everest, a place she described as being “smaller than a tatami mat”. It wasn’t an easy climb in many respects – Junko faced criticism for leaving her young daughter at home as she set off for Nepal, as part of the first all-female climbing team to be awarded a permit to climb the world’s highest peak. News of her astounding feat of human endurance made headlines around the world and Tabei came to stand as a symbol for women’s empowerment and challenging female stereotypes.",
+"quote" : "Technique and ability alone do not get you to the top; it is the willpower that is the most important. This willpower you cannot buy with money or be given by others...it rises from your heart. "
+},
+{
+"name" : "Sarah Breedlove",
+"src" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQI1vDDg1j9q7z0Cpm-G3o1lEX5NyqiuKZB0g&usqp=CAU",
+"lifespan" : " 1867-1919 ",
+"about": "The first self-made female millionaire in America, Breedlove developed a line of beauty and hair products for African-Americans. Her Madam C.J. Walker Manufacturing Company made her one of the most successful African-American business owners in history.",
+"quote" : "I had to make my own living and my own opportunity. But I made it! Don't sit down and wait for the opportunities to come. Get up and make them. "
+},
+{
+"name" : "Wilma Rudolph",
+"src" : "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT-qj6zi7X68nxsW6GqbuOBCWGBc1RyDL7SiA&usqp=CAU",
+"lifespan" : "1940-1994",
+"about": "An American athlete who was the first black woman to make a major impact on international track and field. She recovered from childhood polio, pneumonia and scarlet fever to win three gold medals at the 1960 Olympic Games, the first American woman to ever do so. Her post-Olympic career included goodwill ambassadorial work for the American government in Africa, as well as campaigning work for the Civil Rights movement.",
+"quote" : "The triumph can't be had without the struggle. "
+},
+{
+"name" : "Sarojini Naidu",
+"src" : "https://www.paperjewels.org/sites/default/files/slides/sarojini-naidu-2.jpg",
+"lifespan" : "1879-1949",
+"about": "Sarojini Naidu, a freedom fighter and poet, was the first Indian woman to be president of the Indian National Congress and to be appointed an Indian state governor. A close friend of Mohandas Gandhi, in 1917 Naidu helped found the Women’s India Association and later played a leading role in the civil disobedience movement in colonial India. Two years before her death, India gained its independence as a sovereign nation, becoming the largest democracy in the world.",
+"quote" : “We want deeper sincerity of motive, a greater courage in speech and earnestness in action."
+}]}
